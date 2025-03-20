@@ -39,4 +39,5 @@ const url = "https://hitesh.com/hitesh%20choudhary"
 console.log(url.replace('%20', '-')) // this will first search for %20 and then replace it with '-'
 
 console.log(url.includes('hitesh')) //returns true if keyword is present in the string else return false
- 
+console.log(gameName.split('-'));
+
