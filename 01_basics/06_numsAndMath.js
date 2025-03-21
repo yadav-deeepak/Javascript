@@ -17,4 +17,4 @@ console.log(hundreds.toLocaleString('en-IN')) // 10,00,000
 
 // MAX_VALUE AND MIN_VALUE will tell the maximum and minimum value of the number
 
-// ++++++++++++++++++ Maths +++++++++++++++++++++
+// ++++++++++++++++++ Maths +++++++++++++++++++++++
