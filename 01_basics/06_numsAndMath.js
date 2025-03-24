@@ -1,10 +1,10 @@
 const score = 400
 
 const balance = new Number(100) // another way to store number
-console.log(balance)
+// console.log(balance)
 
-console.log(balance.toString()) //Converts the number into string
-console.log(balance.toFixed(2)) //100.00 precision value fixed ho jaayega
+// console.log(balance.toString()) //Converts the number into string
+// console.log(balance.toFixed(2)) //100.00 precision value fixed ho jaayega
 
 const otherNumber = 23.8966
 
@@ -18,3 +18,6 @@ console.log(hundreds.toLocaleString('en-IN')) // 10,00,000
 // MAX_VALUE AND MIN_VALUE will tell the maximum and minimum value of the number
 
 // ++++++++++++++++++ Maths +++++++++++++++++++++++
+console.log(Math) // returns an object Math
+console.log(Math.abs(-4)) // converts number into positive
+console.log(Math.round(4.6)) // round off the value
